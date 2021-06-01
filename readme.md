@@ -6,8 +6,8 @@ Windows Forms application for easier label printing through BarTender.
 
 ### BarTender
 
-  * __Version__: 9.01
-  * __Edition__: Enterprise or Enterprise Print Server
+  * __Version__: BarTender Designer 2016 R1 11.0.1.3045 (32-bit)
+  * __Edition__: Enterprise Automation
   * __Website__: http://www.seagullscientific.com/
 
 ### .NET Framework
