@@ -1,6 +1,6 @@
 # BarTenderLabelPrinter
 
-Windows Forms application for easier label printing through BarTender.
+ Windows Forms application for easier label printing using the BarTender .NET SDK.
 
 ## Requirements
 
