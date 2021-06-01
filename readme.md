@@ -1,4 +1,4 @@
-# XiconfLabelPrinter
+# BarTenderLabelPrinter
 
 Windows Forms application for easier label printing through BarTender.
 
