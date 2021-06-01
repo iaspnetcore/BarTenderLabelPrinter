@@ -19,7 +19,12 @@ Windows Forms application for easier label printing through BarTender.
 
   * __Version__: Windows server 2012 R2 *64
   
-  
+## Blog
+
+ * __Website__: https://www.iaspnetcore.com/blog/blogpost/60b22ae059018b01fd046b87/how-to-change-datasource-on-a-label-template-file-btw-bartender
+ * __Website__: https://www.iaspnetcore.com/blog/blogpost/60a04b7db8d10f0221b9d245/bartender-net-sdk/
+
+
   
 
 ## Build
