@@ -14,6 +14,13 @@ Windows Forms application for easier label printing through BarTender.
 
   * __Version__: 4.8.0
   * __Website__: https://go.microsoft.com/fwlink/?LinkId=2085155
+  
+### OS
+
+  * __Version__: Windows server 2012 R2 *64
+  
+  
+  
 
 ## Build
 
