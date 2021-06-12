@@ -20,12 +20,15 @@
   * __Version__: Windows server 2012 R2 *64
   
 # Help Doc
+
+### .NET SDK
+
+#### Local Disk
+
   * BarTender .NET SDK Help C:\Program Files (x86)\Seagull\BarTender Suite\SDK\BarTender .NET SDK.CHM
   * Print Engine API Samples C:\Program Files (x86)\Seagull\BarTender Suite\SDK\Print Engine API Samples
   
-## Blog
-
-### .NET SDK
+#### Blog
 
  * __Website__: https://www.iaspnetcore.com/blog/blogpost/60b22ae059018b01fd046b87/how-to-change-datasource-on-a-label-template-file-btw-bartender
  * __Website__: https://www.iaspnetcore.com/blog/blogpost/60a04b7db8d10f0221b9d245/bartender-net-sdk/
