@@ -30,9 +30,13 @@
  * __Website__: https://www.iaspnetcore.com/blog/blogpost/60b22ae059018b01fd046b87/how-to-change-datasource-on-a-label-template-file-btw-bartender
  * __Website__: https://www.iaspnetcore.com/blog/blogpost/60a04b7db8d10f0221b9d245/bartender-net-sdk/
 
-### ActiveX COM
+### ActiveX COM   
 
  * __Website__: https://www.iaspnetcore.com/blog/blogpost/60b7ab5659018b01fd866ee1/summary-of-several-integration-modes-of-bartender-c
+ 
+#### Office Help Doc
+
+http://help.seagullscientific.com/2021/en/Subsystems/ActiveX/Content/Changing_data.htm
   
 
 ## Build
