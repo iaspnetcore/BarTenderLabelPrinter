@@ -7,7 +7,7 @@
 ### BarTender
 
   * __Version__: BarTender Designer 2016 R1 11.0.1.3045 (32-bit)
-  * __Edition__: Enterprise Automation
+  * __.NET SDK Required Edition__: Automation, Enterprise Automation
   * __Website__: http://www.seagullscientific.com/
 
 ### .NET Framework
